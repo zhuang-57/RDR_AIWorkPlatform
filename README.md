@@ -4,21 +4,6 @@
 ```
 npm install
 ```
+只有一个页面，运行之后url为http://localhost:8080/#/，需在后面添加home才能看到页面
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+http://localhost:8080/#/home
